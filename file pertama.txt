@@ -4,3 +4,4 @@ materi beljar di HTP
 3. Php
 4. JS
 5. Mysql
+6. Laravel
